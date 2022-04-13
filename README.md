@@ -15,3 +15,5 @@ A fictional music company has asked us to analyze their database to see where we
 * Do customers care about protected vs. non-protected media?
 
 Along the way, we will not only query the database, but also read it in to a pandas DataFrame for visualization, making our query results easier to digest.
+
+To view the notebook, click on the .ipynb file above, or view it [here](https://nbviewer.org/github/noah-kg/sql-business-analysis/blob/main/Using%20SQL%20for%20Business%20Analysis.ipynb).
