@@ -1,5 +1,5 @@
 <div>
-  <img src="https://www.thoughtco.com/thmb/TdGwoFSq82KSD6gOiL9GClyb_2E=/3400x2276/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-174616627-5769ec8e5f9b58346a84bfbf.jpg" width="800">
+  <img src="https://user-images.githubusercontent.com/23434317/163231224-965e71c8-d08a-4cb2-b9b3-b48a5a4afafa.jpg" width="800">
 </div>
 
 # Applying SQL Queries to Analyze Business Decisions
